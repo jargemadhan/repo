@@ -10,7 +10,8 @@ public class Min {
 		h.put(1076, "Dinesh");
 		h.put(1077, "Mani");
 		h.put(1078, "Balaji");
-	
+		System.out.println();
+		System.out.println();	
 	}
 
 }
